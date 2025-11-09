@@ -1,0 +1,4 @@
+langchain==1.0.3
+langchain-groq==1.0.0
+python-dotenv
+streamlit
