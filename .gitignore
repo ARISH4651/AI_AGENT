@@ -5,6 +5,7 @@ env/
 
 # Environment files
 .env
+.streamlit/
 
 # Python cache
 __pycache__/
